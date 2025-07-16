@@ -38,6 +38,8 @@ Follow these steps carefully to successfully link your CircleCI pipelines to Jir
 Ensure your CircleCI account is ready:
 
 * **Sign up/Log in** to your CircleCI account: [CircleCI Signup/Login](https://circleci.com/)
+* <img width="544" height="249" alt="image" src="https://github.com/user-attachments/assets/9c55648d-ab28-46c9-97c3-1bf7aefcf239" />
+
 * **Connect your GitHub profile** (personal or work) to your CircleCI account.
 * For a more detailed setup guide, refer to the official documentation: [Setting up CircleCI](https://circleci.com/docs/2.0/getting-started/)
 * **Opt into your relevant organization** or create a new one. For GitHub-backed CI/CD projects, your organization name typically matches your GitHub organization/account name.
